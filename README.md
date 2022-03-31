@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </div>
       <div>
-  <a href="https://www.hackerrank.com/j__m_luge?hr_r=1">
+  <a href="https://www.hackerrank.com/j__m_luge?hr_r=1"/>
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/talent-solutions-lodestone/body/logos/hackerrank-logo-dsk.png/jcr:content/renditions/hackerrank-logo-mob-port.png" alt="Hackerrank Badge"/>
         </div>
 </div>
@@ -28,9 +28,9 @@ I am a Trainee in Software Development from Germany 🤓
 
 - ⏳ Before I attended SIVIS I earned vocational qualification in hospitality 👨‍🍳 <br/> and also studied 3 semestries of a B.Sc. Geoecology at the KIT 👨‍🎓
 
-- :zap In my free time, I solve problems on HackerRank  and read tech articles.
+- ⚡ In my free time, I solve problems on Hackerrank, spend time hiking, being with friends and cycling.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📭 :How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/jakob-luge-7a04a7159
 
 ![My Github Statistics](https://github-readme-stats.vercel.app/api?username=jakobmichael&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobmichael)
