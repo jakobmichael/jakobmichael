@@ -24,6 +24,7 @@
 </div>
 
 ---
+---
 
 ### :man_technologist: About Me :
 
@@ -40,7 +41,7 @@ B.Sc. Geoecology at the KIT 👨‍🎓
 
 - 📭 :How to reach me: lugejakob@gmail.com or via LinkedIn
 
----
+
 ---
 
 My Statistics
@@ -49,4 +50,5 @@ My Statistics
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobmichael)
 <!--(https://github.com/<username>/<repository_name>) -->
 
+---
 ---
