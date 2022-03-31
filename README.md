@@ -61,7 +61,7 @@ B.Sc. Geoecology at the KIT 👨‍🎓
 ### 🧑‍💻 My Statistics :
 
 ![Commits](https://github-readme-stats.vercel.app/api?username=jakobmichael&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)(https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobmichael)
 <!--(https://github.com/<username>/<repository_name>) -->
 
