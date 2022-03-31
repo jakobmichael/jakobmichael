@@ -3,7 +3,9 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/jakob-luge-7a04a7159">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <a href="https://res.cloudinary.com/practicaldev/image/fetch/s--Skrs-v3F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk4gt0qay4owv4j1cypo.png" width="40px">
+    <div width="40px">
+    <a href="https://res.cloudinary.com/practicaldev/image/fetch/s--Skrs-v3F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk4gt0qay4owv4j1cypo.png">
+      </div>
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Skrs-v3F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk4gt0qay4owv4j1cypo.png" alt="Hackerrank Badge"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=jakobmichael&style=flat-square&color=blue" alt=""/>
