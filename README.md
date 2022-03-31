@@ -40,7 +40,12 @@ B.Sc. Geoecology at the KIT 👨‍🎓
 
 - 📭 :How to reach me: lugejakob@gmail.com or via LinkedIn
 
-![My Github Statistics](https://github-readme-stats.vercel.app/api?username=jakobmichael&show_icons=true&theme=radical)
+---
+---
+
+My Statistics
+
+![Commits](https://github-readme-stats.vercel.app/api?username=jakobmichael&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobmichael)
 <!--(https://github.com/<username>/<repository_name>) -->
 
