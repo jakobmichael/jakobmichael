@@ -29,7 +29,7 @@
 
 I am a Trainee in Software Development from Germany 🤓
 
-- 🔭 I’m working as a Trainee at SIVIS GmbH in Karlsruhe
+- 🔭 I’m working as a Trainee at SIVIS GmbH in Karlsruhe since 2020
 
 - 🌱 On my way to become a fullstack developer.
 
