@@ -40,7 +40,7 @@ I am a Trainee in Software Development from Germany 🤓
 - ⏳ Before I attended SIVIS I earned vocational qualification in hospitality 👨‍🍳 and also studied 3 semestries of a
 B.Sc. Geoecology at the KIT 👨‍🎓
 
-- ⚡ In my free time, I solve problems on Leetcode and freecodecamp, spend time hiking, being with friends and cycling.
+- ⚡ In my free time, I solve problems on Leetcode, Hackerrank or freecodecamp, spend time hiking, being with friends and cycling.
 
 - 📭 :How to reach me: lugejakob@gmail.com or via LinkedIn
 
