@@ -40,7 +40,7 @@ I am a Trainee in Software Development from Germany 🤓
 - ⏳ Before I attended SIVIS I earned vocational qualification in hospitality 👨‍🍳 and also studied 3 semestries of a
 B.Sc. Geoecology at the KIT 👨‍🎓
 
-- ⚡ In my free time, I solve problems on Hackerrank, spend time hiking, being with friends and cycling.
+- ⚡ In my free time, I solve problems on Leetcode and freecodecamp, spend time hiking, being with friends and cycling.
 
 - 📭 :How to reach me: lugejakob@gmail.com or via LinkedIn
 
@@ -75,11 +75,11 @@ B.Sc. Geoecology at the KIT 👨‍🎓
 
 ### 💻 My Statistics :
 
-[![Commits](https://github-readme-stats.vercel.app/api?username=jakobmichael&show_icons=true&theme=darcula&hide_border=true)
+[![Commits](https://github-readme-stats.vercel.app/api?username=jakobmichael&show_icons=true&theme=vue-dark&hide_border=true)
 ![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com?user=jakobmichael&theme=darcula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+Streak](https://github-readme-streak-stats.herokuapp.com?user=jakobmichael&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobmichael&theme=darcula&hide_border=true)
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobmichael&theme=vue-dark&hide_border=true)
 <!--(https://github.com/<username>/<repository_name>) -->
 
 ---
