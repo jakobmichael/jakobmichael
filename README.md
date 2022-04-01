@@ -11,7 +11,7 @@
                 alt="LinkedIn Badge" />
         </a>
       
-    </div>
+
     <img src="https://komarev.com/ghpvc/?username=jakobmichael&style=flat-square&color=blue" alt="" />
 </div>
 <h1>
@@ -65,7 +65,7 @@ B.Sc. Geoecology at the KIT 👨‍🎓
 
 </div>
 
-### 🧑‍💻 My Statistics :
+### 💻 My Statistics :
 
 [![Commits](https://github-readme-stats.vercel.app/api?username=jakobmichael&show_icons=true&theme=darcula&hide_border=true)
 ![GitHub
