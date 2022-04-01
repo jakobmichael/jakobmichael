@@ -12,7 +12,7 @@
             <div>
                 <a href="https://www.hackerrank.com/j__m_luge?hr_r=1">
                     <img src="https://content.linkedin.com/content/dam/me/business/en-us/talent-solutions-lodestone/body/logos/hackerrank-logo-dsk.png/jcr:content/renditions/hackerrank-logo-mob-port.png"
-                         width="40px"
+                         width="100px"
                         alt="Hackerrank Badge" />
                 </a>
             </div>
