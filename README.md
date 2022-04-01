@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="auto" height="auto" frameBorder="0"
         class="giphy-embed" allowFullScreen></img>
     <div id="badges">
-        <div>
+       
            
                 <a href="https://www.linkedin.com/in/jakob-luge-7a04a7159">
                     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
