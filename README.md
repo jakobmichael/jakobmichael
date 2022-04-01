@@ -3,19 +3,18 @@
         class="giphy-embed" allowFullScreen></img>
     <div id="badges">
         <div>
-            <div>
+           
                 <a href="https://www.linkedin.com/in/jakob-luge-7a04a7159">
                     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
                         alt="LinkedIn Badge" />
                 </a>
-            </div>
-            <div>
+           
                 <a href="https://www.hackerrank.com/j__m_luge?hr_r=1">
                     <img src="https://content.linkedin.com/content/dam/me/business/en-us/talent-solutions-lodestone/body/logos/hackerrank-logo-dsk.png/jcr:content/renditions/hackerrank-logo-mob-port.png"
                          width="100px"
                         alt="Hackerrank Badge" />
                 </a>
-            </div>
+           
         </div>
         <img src="https://komarev.com/ghpvc/?username=jakobmichael&style=flat-square&color=blue" alt="" />
     </div>
