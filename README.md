@@ -33,16 +33,16 @@
 
 I am a Trainee in Software Development from Germany 🤓
 
-- 🔭 I’m working as a Trainee at SIVIS GmbH in Karlsruhe since 2020
+🔭  I’m working as a Trainee at SIVIS GmbH in Karlsruhe since 2020
 
-- 🌱 On my way to become a fullstack developer.
+🌱  On my way to become a fullstack developer.
 
-- ⏳ Before I attended SIVIS I earned vocational qualification in hospitality 👨‍🍳 and also studied 3 semestries of a
-B.Sc. Geoecology at the KIT 👨‍🎓
+⏳   Before I attended SIVIS I earned vocational qualification in hospitality 👨‍🍳 and also studied 3 semestries of a
+     B.Sc. Geoecology at the KIT 👨‍🎓
+     
+⚡   In my free time, I solve problems on Leetcode, Hackerrank or freecodecamp, spend time hiking, being with friends and cycling.
 
-- ⚡ In my free time, I solve problems on Leetcode, Hackerrank or freecodecamp, spend time hiking, being with friends and cycling.
-
-- 📭 :How to reach me: lugejakob@gmail.com or via LinkedIn
+📭   How to reach me: lugejakob@gmail.com or via LinkedIn
 
 
 ### 🛠️: Languages and Tools :
