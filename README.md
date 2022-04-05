@@ -37,8 +37,8 @@ I am a Trainee in Software Development from Germany 🤓
 
 🌱  On my way to become a fullstack developer.
 
-⏳   Before I attended SIVIS I earned vocational qualification in hospitality 👨‍🍳 and also studied 3 semestries of a
-     B.Sc. Geoecology at the KIT 👨‍🎓
+⏳   Before I attended SIVIS I earned vocational qualification in hospitality and studied 3 semestries of a
+     B.Sc. Geoecology at the KIT
      
 ⚡   In my free time, I solve problems on Leetcode, Hackerrank or freecodecamp, spend time hiking, being with friends and cycling.
 
