@@ -1,7 +1,7 @@
 <div id="header" align="center">
       <img src="https://media.giphy.com/media/PoHs1Ne8rcMuZRJted/giphy.gif" width="auto" height="auto" frameBorder="0"
         class="giphy-embed" allowFullScreen></img>
-        <p style="font-size:5px;"><a href="https://giphy.com/gifs/tech-software-macaotech-PoHs1Ne8rcMuZRJted">via GIPHY</a></p>
+        <p><a style="font-size:5px !important;" href="https://giphy.com/gifs/tech-software-macaotech-PoHs1Ne8rcMuZRJted">via GIPHY</a></p>
     <div id="badges">
         <a href="https://www.linkedin.com/in/jakob-luge-7a04a7159">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
