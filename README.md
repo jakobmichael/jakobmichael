@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/PoHs1Ne8rcMuZRJted" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/PoHs1Ne8rcMuZRJted"></img>
     <div id="badges">
         <a href="https://www.linkedin.com/in/jakob-luge-7a04a7159">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
