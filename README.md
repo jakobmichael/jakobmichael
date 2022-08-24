@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="auto" height="auto" frameBorder="0"
+    <img src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/PoHs1Ne8rcMuZRJted" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tech-software-macaotech-PoHs1Ne8rcMuZRJted">via GIPHY</a></p>" width="auto" height="auto" frameBorder="0"
         class="giphy-embed" allowFullScreen></img>
     <div id="badges">
         <a href="https://www.linkedin.com/in/jakob-luge-7a04a7159">
