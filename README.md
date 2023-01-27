@@ -32,7 +32,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Trainee in Software Development from Germany 🤓
+I am a Software Developer from Germany 🤓
 
 🔭  I’m working as a Trainee at SIVIS GmbH in Karlsruhe since 2020
 
