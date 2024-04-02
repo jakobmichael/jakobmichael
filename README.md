@@ -43,7 +43,7 @@ I am a Software Developer from Germany 🤓
      
 ⚡   In my free time, I solve problems on Leetcode, Hackerrank or freecodecamp, spend time hiking, being with friends and cycling.
 
-📭   How to reach me: lugejakob@gmail.com or via LinkedIn
+📭   How to reach me: jakob_luge@mailbox.org or via LinkedIn
 
 
 ### 🛠️: Languages and Tools :
