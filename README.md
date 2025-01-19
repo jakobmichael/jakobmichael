@@ -34,7 +34,7 @@
 
 I am a Software Developer from Germany 🤓
 
-🔭  I’m working as a Trainee at SIVIS GmbH in Karlsruhe since 2020
+🔭  I worked as a Trainee at SIVIS GmbH in Karlsruhe from 2020 - 2022. Until January 2025 I worked for SIVIS/Pointsharp as a Fullstack Software Developer. Since Februray 2025 I am working for emsys VPP as a Software Developer for renewable energies.
 
 🌱  On my way to become a fullstack developer.
 
